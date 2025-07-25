@@ -31,4 +31,4 @@ remindme <duration> [message] [--notify] [--speak]
 
 ## Example
 
-- remindme 15m "Join the meeting" --notify --speak
+remindme 15m "Join the meeting" --notify --speak
